@@ -53,7 +53,7 @@ Then restart docker daemon:
 
 ```bash
 $ service docker stop
-$ service docker sart
+$ service docker start
 ```
 
 ## Test
